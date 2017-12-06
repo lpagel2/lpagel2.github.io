@@ -1,0 +1,58 @@
+.logo {
+    width: 20%;
+    position: absolute;
+    left: 42%;
+    top: 0px;
+}
+
+    
+header {
+    background-color: white;
+    height: 250px;
+}
+  nav {
+    font-size: 40pt;
+    text-align: center;
+    position: fixed;
+    top: 150px;
+    left: 41.5%;
+  }
+  nav a {
+    background-color: #f6b08c;
+     font-family: "Times New Roman", "serif";
+     font-size: 20pt;
+  }
+    a {
+    color: black;
+    }
+    a:hover {
+    color: white;
+    }
+   body {
+    background-color: #ffe6cc;
+    font-family: "Times New Roman", serif;
+    width:1024pts;
+    height: 768pts;
+   }
+   .container {
+       position: absolute;
+       top: 300px;
+       left: 33%;
+   }
+   .board {
+    position: absolute;
+    top: 300px;
+    left: 40%;
+}
+
+    footer{
+        background-color: white;
+        position: fixed;
+        bottom: 0px;
+
+    }
+   
+    .bgimg {
+        width: 100%;
+        height: auto;
+    }
