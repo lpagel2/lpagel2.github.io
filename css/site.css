@@ -1,58 +1,67 @@
 .logo {
     width: 20%;
     position: absolute;
-    left: 42%;
+    left: 40%;
     top: 0px;
 }
 
     
 header {
     background-color: white;
-    height: 250px;
+    height: 200px;
 }
+/* styling for the pages other than the homepage */
   nav {
-    font-size: 40pt;
+    font-size: 15pt;
     text-align: center;
-    position: fixed;
-    top: 150px;
-    left: 41.5%;
+    position: relative;
+    top: 120px;   
+  }
+  /* styling for the homepage only */
+  .position {
+      position: relative;
+      top: 160px;
   }
   nav a {
-    background-color: #f6b08c;
      font-family: "Times New Roman", "serif";
-     font-size: 20pt;
+     
+     font-weight: bold;
   }
     a {
-    color: black;
+    color: #f6b08c;
     }
     a:hover {
-    color: white;
+    color: #99a6c9;
     }
    body {
     background-color: #ffe6cc;
     font-family: "Times New Roman", serif;
-    width:1024pts;
-    height: 768pts;
    }
    .container {
        position: absolute;
        top: 300px;
        left: 33%;
    }
-   .board {
-    position: absolute;
-    top: 300px;
-    left: 40%;
-}
 
-    footer{
-        background-color: white;
-        position: fixed;
-        bottom: 0px;
+   /* homepage styling  */
+   .greeting  {
+       z-index: 1;
+       font-size: 300px;
+       font-family: "Times New Roman", serif;
+       font-weight: bold;
+       color: white;
+       position: absolute;
+       top: 400px;
+       left: 20%;
 
-    }
-   
+   }
     .bgimg {
         width: 100%;
+        height: auto;
+        z-index: -1;
+    }
+
+    .map {
+        width: 300px;
         height: auto;
     }
