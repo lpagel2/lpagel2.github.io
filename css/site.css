@@ -46,7 +46,7 @@ header {
    /* homepage styling  */
    .greeting  {
        z-index: 1;
-       font-size: 250px;
+       font-size: 200px;
        font-family: "Times New Roman", serif;
        font-weight: bold;
        color: white;
