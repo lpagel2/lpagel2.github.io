@@ -46,11 +46,11 @@ header {
    /* homepage styling  */
    .greeting  {
        z-index: 1;
-       font-size: 300px;
+       font-size: 150px;
        font-family: "Times New Roman", serif;
        font-weight: bold;
        color: white;
-       position: absolute;
+       position: relative;
        top: 400px;
        left: 20%;
 
