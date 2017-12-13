@@ -50,7 +50,7 @@ header {
        font-family: "Times New Roman", serif;
        font-weight: bold;
        color: white;
-       position: relative;
+       position: absolute;
        top: 400px;
        left: 20%;
 
