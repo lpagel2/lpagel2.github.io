@@ -45,6 +45,8 @@ header {
 
    /* homepage styling  */
    .greeting  {
+       width: 100%;
+       height: auto;
        z-index: 1;
        font-size: 300px;
        font-family: "Times New Roman", serif;
