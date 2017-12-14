@@ -20,7 +20,7 @@ header {
   /* styling for the homepage only */
   .position {
       position: relative;
-      top: 160px;
+      top: 140px;
   }
   nav a {
      font-family: "Times New Roman", "serif";
@@ -48,7 +48,7 @@ header {
        width: 100%;
        height: auto;
        z-index: 1;
-       font-size: 300px;
+       font-size: 200px;
        font-family: "Times New Roman", serif;
        font-weight: bold;
        color: white;
